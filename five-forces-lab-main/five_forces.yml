@@ -1,0 +1,45 @@
+# Write your group name exactly as it appears on Canvas.
+group: "Group 8"
+
+# Write the names of your group members as a comma-separated list.
+members: ["Fazle Rabby", "Zijian Xu", "Jianhao Yang"]
+
+# Write a short description of your application.
+topic: "Car Sales Management System - A digital platform for buying and selling vehicles."
+
+# Write your assessment of the rivalry between existing competitors.
+competitor_rivalry: >
+  The car sales industry is highly competitive, with multiple dealerships, 
+  online platforms, and private sellers competing for market share. 
+  Companies like AutoTrader, CarGurus, and local dealerships offer similar 
+  services, making differentiation crucial.
+
+# Write your assessment of the threat of new entrants.
+new_entrant_threat: >
+  The barrier to entry is moderate. While setting up a dealership requires 
+  substantial investment, online car sales platforms are easier to establish. 
+  However, strong brand reputation and trust are critical for success.
+
+# Write your assessment of the threat of substitute products or services.
+substitute_threat: >
+  Alternatives such as ride-sharing (Uber, Lyft), car rentals, and public 
+  transportation serve as substitutes. As urbanization increases, consumers 
+  may prefer these options over car ownership.
+
+# Write your assessment of the bargaining power of customers.
+customer_power: >
+  Customers have significant power due to the availability of many options. 
+  Online price comparison tools make it easy for buyers to negotiate better 
+  deals. Customer reviews and transparency further empower buyers.
+
+# Write your assessment of the bargaining power of suppliers.
+supplier_power: >
+  Car manufacturers and wholesalers have moderate power. Dealerships rely 
+  on manufacturers for stock, but competition between manufacturers (Toyota, 
+  Ford, Honda) prevents monopolistic control over pricing.
+
+# Write your conclusion regarding the appropriate competitive strategy to pursue.
+competitive_strategy: >
+  Our strategy is differentiation. By offering a user-friendly digital 
+  platform with virtual car showrooms, AI-based recommendations, and seamless 
+  financing options, we aim to provide a superior buying experience.
